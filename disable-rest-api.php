@@ -14,7 +14,7 @@ class DisableRestApiPlugin
     {
         return new WP_Error(
             'rest_api_disabled', 
-            'REST Api permanently disabled'
+            'REST API permanently disabled'
         );
     }
 }
