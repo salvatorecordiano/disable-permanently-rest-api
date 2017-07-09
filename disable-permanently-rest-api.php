@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Disable Permanently REST API
- * Plugin URI: https://github.com/salvatorecordiano/disable-rest-api/
+ * Plugin URI: https://github.com/salvatorecordiano/disable-permanently-rest-api/
  * Description: The most simple plugin to disable permanently REST API on WordPress 4.7+
  * Author: Salvatore Cordiano
  * Version: 0.1.0
