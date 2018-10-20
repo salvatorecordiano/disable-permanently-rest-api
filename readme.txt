@@ -2,8 +2,8 @@
 Contributors: parallelit
 Tags: rest, rest api, json, wp-json, disable
 Requires at least: 4.7
-Tested up to: 4.8
-Stable tag: 0.1.0
+Tested up to: 5.0
+Stable tag: 0.1.1
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -22,6 +22,9 @@ This section describes how to install the plugin and get it working.
 3. That's all folks.
 
 == Changelog ==
+
+= 0.1.1 =
+* Test on WordPress 5.0.
 
 = 0.1.0 =
 * First release.
